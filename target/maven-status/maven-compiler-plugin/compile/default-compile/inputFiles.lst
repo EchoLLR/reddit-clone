@@ -1,0 +1,15 @@
+/Users/lingrui/Documents/Code/reddit_clone/reddit-clone/src/main/java/com/project/redditclone/repository/CommentRepository.java
+/Users/lingrui/Documents/Code/reddit_clone/reddit-clone/src/main/java/com/project/redditclone/model/Subreddit.java
+/Users/lingrui/Documents/Code/reddit_clone/reddit-clone/src/main/java/com/project/redditclone/model/Comment.java
+/Users/lingrui/Documents/Code/reddit_clone/reddit-clone/src/main/java/com/project/redditclone/repository/PostRepository.java
+/Users/lingrui/Documents/Code/reddit_clone/reddit-clone/src/main/java/com/project/redditclone/repository/VoteRepository.java
+/Users/lingrui/Documents/Code/reddit_clone/reddit-clone/src/main/java/com/project/redditclone/model/VoteType.java
+/Users/lingrui/Documents/Code/reddit_clone/reddit-clone/src/main/java/com/project/redditclone/model/VerificationToken.java
+/Users/lingrui/Documents/Code/reddit_clone/reddit-clone/src/main/java/com/project/redditclone/model/NotificationEmail.java
+/Users/lingrui/Documents/Code/reddit_clone/reddit-clone/src/main/java/com/project/redditclone/model/User.java
+/Users/lingrui/Documents/Code/reddit_clone/reddit-clone/src/main/java/com/project/redditclone/repository/VerificationTokenRepository.java
+/Users/lingrui/Documents/Code/reddit_clone/reddit-clone/src/main/java/com/project/redditclone/model/Vote.java
+/Users/lingrui/Documents/Code/reddit_clone/reddit-clone/src/main/java/com/project/redditclone/RedditCloneApplication.java
+/Users/lingrui/Documents/Code/reddit_clone/reddit-clone/src/main/java/com/project/redditclone/repository/UserRepository.java
+/Users/lingrui/Documents/Code/reddit_clone/reddit-clone/src/main/java/com/project/redditclone/model/Post.java
+/Users/lingrui/Documents/Code/reddit_clone/reddit-clone/src/main/java/com/project/redditclone/repository/SubredditRepository.java
